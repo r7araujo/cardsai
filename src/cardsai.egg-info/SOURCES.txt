@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/cardsai/__init__.py
+src/cardsai/__main__.py
+src/cardsai/models.py
+src/cardsai.egg-info/PKG-INFO
+src/cardsai.egg-info/SOURCES.txt
+src/cardsai.egg-info/dependency_links.txt
+src/cardsai.egg-info/requires.txt
+src/cardsai.egg-info/top_level.txt
+tests/test_models.py

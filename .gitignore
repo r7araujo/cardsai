@@ -1,0 +1,25 @@
+  # Ambiente virtual e Python
+  .venv/
+  __pycache__/
+  *.py[cod]
+  *.so
+
+  # Segredos
+  .env
+  .env.*
+  !.env.example
+  .streamlit/secrets.toml
+
+  # Arquivos gerados
+  data/
+  output/
+  media/
+  *.apkg
+
+  # Ferramentas e sistema
+  .pytest_cache/
+  .mypy_cache/
+  .ruff_cache/
+  .coverage
+  htmlcov/
+  .DS_Store
